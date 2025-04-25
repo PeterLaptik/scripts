@@ -1,3 +1,5 @@
+pkg install sudo
+
 pkg install Xorg
 
 pkg install mate
